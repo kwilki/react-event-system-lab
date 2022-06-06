@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import ConcatenatedModule from 'webpack/lib/optimize/ConcatenatedModule';
 
 export default class Keypad extends Component {
 
